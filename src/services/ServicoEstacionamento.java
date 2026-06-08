@@ -8,7 +8,7 @@ import enums.CategoriaVeiculo;
 
 import java.time.Duration;
 
-import static enums.CategoriaVeiculo.CARRO;
+
 
 
 public class ServicoEstacionamento {
