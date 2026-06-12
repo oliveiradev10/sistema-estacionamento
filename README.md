@@ -37,6 +37,6 @@ Métodos
 Regras de negócio
 Tratamento de exceções
 Manipulação de datas e horas
-Autor
 
+Autor
 Ítalo Oliveira
